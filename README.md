@@ -2,7 +2,6 @@
 // Andres-Lemus.ts;
 
 class About extends Me {
-
   getCurrentWorkplace() {
     return [
       {
