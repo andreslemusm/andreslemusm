@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aclmadrid04@gmail.com**
 
-- 📄 Know about my experiences [https://andreslemus.dev/about](https://andreslemus.dev/about)
+- 📄 Know about my experiences [https://www.linkedin.com/in/andreslemusm](https://www.linkedin.com/in/andreslemusm)
 
 - ⚡ Fun fact **I studied mathematics for two years!**
 
