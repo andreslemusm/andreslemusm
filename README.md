@@ -3,15 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/andreslemusm1" target="blank"><img src="https://img.shields.io/twitter/follow/andreslemusm1?logo=twitter&style=for-the-badge" alt="andreslemusm1" /></a> </p>
 
-- 🔭 I’m currently working on [Ottomoto](https://ottomoto-uat.lean-tech.io/)
+- 🔭 I’m currently working on [Ottomoto](https://v2.ottomotoapp.com/)
 
 - 🌱 I’m currently learning **with Epic React!**
 
 - 🤝 I'm looking to collaborate with senior developers; **to raise my standards on what is expected of any web application.**
-
-- 👨‍💻 All of my personal projects are available at [https://andreslemus.tech/portfolio](https://andreslemus.tech/portfolio)
-
-- 📝 I regularly write articles on [https://andreslemus.dev/blog](https://andreslemus.dev/blog)
 
 - 💬 Ask me about **JavaScript, TypeScript or React.**
 
