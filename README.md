@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Carrier Assure](https://app.carrierassure.com/)
 
-- 🌱 I’m currently learning **with Epic React!**
+- 🌱 I’m currently learning **Remix!**
 
 - 🤝 I'm looking to collaborate with senior developers; **to raise my standards on what is expected of any web application.**
 
@@ -16,10 +16,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/andreslemusm](https://www.linkedin.com/in/andreslemusm)
 
 - ⚡ Fun fact **I studied mathematics for two years!**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
